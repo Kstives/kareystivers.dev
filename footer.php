@@ -1,4 +1,4 @@
-<div id="footer">
+<footer>
   <ul id="footer-contact">
     <li>Karey Stivers</li>
     <li>karey@kareystivers.dev</li>
@@ -6,4 +6,4 @@
     <li><a href="resume/index.php">Resume</a></li>
   </ul>
   <p>© Karey Stivers 2022</p> 
-</div>
+</footer>
